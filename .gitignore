@@ -1,0 +1,14 @@
+# Monday one-star build — ignore local artefacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.output/
+output/
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+*.tmp
+*.bak
